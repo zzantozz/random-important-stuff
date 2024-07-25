@@ -1,0 +1,11 @@
+./baz: No match
+./foo: Ok
+./bar: Ok
+hashdeep: Audit failed
+   Input files examined: 0
+  Known files expecting: 0
+          Files matched: 2
+Files partially matched: 0
+            Files moved: 0
+        New files found: 1
+  Known files not found: 0
